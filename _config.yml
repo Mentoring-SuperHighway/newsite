@@ -1,5 +1,5 @@
-title: Pudhina Fresh # Shown in header on pages with full_logo: true
-short_logo: P. # Shown in header on all pages by default unless full_logo: true is set
+title: Mentoring SuperHighway # Shown in header on pages with full_logo: true
+short_logo: Mentoring SuperHighway # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   Mentoring SuperHighway is a free program covering the process of shifting from middle school to high school, which includes talking about grades, choosing rigorous courses, and choosing meaningful extracurriculars.
 url: "https://mentoring-superhighway.github.io/newsite/" # Site base URL
